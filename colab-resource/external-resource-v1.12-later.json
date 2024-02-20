@@ -1,8 +1,8 @@
 {
     "katago": {
-        "bin": "https://github.com/Gomenkar/katago-colab/releases/download/v1.14/katago.zip",
+        "bin": "https://github.com/WuChuan1914/katago-colab/releases/download/v1.14.0/katago.zip",
         "libzip": "libzip5",
         "weight": "https://media.katagotraining.org/uploaded/networks/models/kata1/kata1-b18c384nbt-uec.bin.gz"
     },
-    "ngrok": "https://github.com/Gomenkar/katago-colab/releases/download/v1.14/ngrok"
+    "ngrok": "https://github.com/WuChuan1914/katago-colab/releases/download/v1.14.0/ngrok"
 }
